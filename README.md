@@ -2,7 +2,7 @@
 
 Vi uma lista gringa, e resolvi fazer uma lista em português com conteúdos brasileiros. 
 
-✨ Uma lista com artigos, sites, talks e recursos incríveis sobre diversidade na área de tecnologia. ✨
+✨ Uma lista com artigos, sites, talks e recursos incríveis sobre diversidade na área de tecnologia. ✨ <br>
   Sempre tentando atualizar o máximo possível.
   
 ## Conteúdos 
