@@ -4,6 +4,8 @@
 
 Vi uma lista gringa, e resolvi fazer uma lista em português com conteúdos brasileiros. 
 Sempre tentando atualizar o máximo possível.
+
+créditos <a href=“www.github.com/folkswhocode/awesome-diversity“>awesome-diversity</a> 
   
 ## Conteúdos 
 
