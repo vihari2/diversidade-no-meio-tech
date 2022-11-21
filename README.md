@@ -1,4 +1,4 @@
-# 🌈 Diversidade no meio tech. 🌈
+<center> # 🌈 Diversidade no meio tech. 🌈  </center>
 
 ✨ Uma lista com artigos, sites, talks e recursos incríveis sobre diversidade na área de tecnologia. ✨ <br>
 
@@ -46,6 +46,9 @@ Sempre tentando atualizar o máximo possível.
 
 ## Livros
 
+
+
+## Filmes
 
 
 ## Contribuição
