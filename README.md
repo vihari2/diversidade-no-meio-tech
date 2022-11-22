@@ -16,9 +16,9 @@ créditos <a href=“github.com/folkswhocode/awesome-diversity“>awesome-divers
 - [Posts](#posts)
 - [Talks](#talks)
 - [Representantes](#representantes)
-- [livros](#livros)
-- [filmes](#filmes)
-- [contribuição](#contribuição)
+- [Livros](#livros)
+- [Filmes](#filmes)
+- [Contribuição](#contribuição)
 
 ## Organizações
 
