@@ -7,52 +7,35 @@ Sempre tentando atualizar o máximo possível.
 
 créditos <a href=“github.com/folkswhocode/awesome-diversity“>awesome-diversity</a> 
   
-## Conteúdos 
+## Conteúdos
 
-
+- [Organizações](#organizações)
+- [Eventos](#eventos)
+- [Recursos](#recursos)
+- [Projetos](#projetos)
+- [Posts](#posts)
+- [Talks](#talks)
+- [Representantes](#representantes)
+- [livros](#livros)
+- [filmes](#filmes)
+- [contribuição](#contribuição)
 
 ## Organizações
 
-
-
-
-
 ## Eventos
-
-
 
 ## Recursos
 
-
-
-
-
-
 ## Projetos
-
-
-
 
 ## Posts
 
-
-
-
 ## Talks
-
-
 
 ## Representantes
 
-
-
 ## Livros
-
-
 
 ## Filmes
 
-
 ## Contribuição
-
-
