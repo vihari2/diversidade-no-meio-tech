@@ -32,6 +32,8 @@ Organizações que abrange diversidade no meio tech.
 
 ## Recursos de aliados
 
+Instituições, empresas que acreditam na diversidade e colocam ações afirmativas como vagas de estágio etc.
+
 - [Ambev](https://www.ambev.com.br/carreiras/nossos-programas/programa-estagio-representa/) - "Programa de Estágio da Ambev – Estágio Regular e o Representa, voltado exclusivamente para pessoas pretas."
 - [Ebanx](https://estagio.ebanx.com/business) - Há programas de estágio exclusivo para pessoas negras.
 
