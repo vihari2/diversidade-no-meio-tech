@@ -26,6 +26,7 @@ Organizações que abrange diversidade no meio tech.
 
 - [PrograMaria](https://www.programaria.org/) - Organização com a missão de empoderar meninas e mulheres por meio da tecnologia.
 - [Elas Programam](https://www.instagram.com/elasprogramam/) - "Trabalhamos para aumentar o número de mulheres no mercado de tecnologia."
+- [PretaLab](https://opoderdofuturo.pretalab.com/) - "A PretaLab é uma iniciativa do Olabi, organização social que trabalha para trazer diversidade para a tecnologia e inovação"
 
 ## Eventos
 
