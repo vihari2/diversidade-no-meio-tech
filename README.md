@@ -11,7 +11,7 @@ créditos <a href=“github.com/folkswhocode/awesome-diversity“>awesome-divers
 
 - [Organizações](#organizações)
 - [Eventos](#eventos)
-- [Recursos](#recursos)
+- [Recursos de aliados](#recursos-de-aliados)
 - [Projetos](#projetos)
 - [Posts](#posts)
 - [Talks](#talks)
@@ -30,7 +30,7 @@ Organizações que abrange diversidade no meio tech.
 
 ## Eventos
 
-## Recursos
+## Recursos de aliados
 
 ## Projetos
 
@@ -39,6 +39,11 @@ Organizações que abrange diversidade no meio tech.
 ## Talks
 
 ## Representantes
+
+Pessoas da área que fala sobre ou que representa a diversidade no meio tech.
+
+- [Rafaella Ballerini](https://github.com/rafaballerini)
+- [Gi Bordignon](https://www.instagram.com/spacecoding/)
 
 ## Livros
 
