@@ -47,8 +47,8 @@ Instituições, empresas que acreditam na diversidade e colocam ações afirmati
 
 Pessoas da área que fala sobre ou que representa a diversidade no meio tech.
 
-- [Rafaella Ballerini](https://github.com/rafaballerini)
-- [Gi Bordignon](https://www.instagram.com/spacecoding/)
+- [Rafaella Ballerini](https://github.com/rafaballerini) - Desenvolvedora de software e criadora de conteúdo de programação e tecnologia!
+- [Gi Bordignon](https://www.instagram.com/spacecoding/) - Programadora backend senior de C#, ela compartilha conhecimento e dicas em seus redes sociais.
 
 ## Livros
 
